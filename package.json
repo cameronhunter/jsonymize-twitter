@@ -1,0 +1,11 @@
+{
+  "name": "jsonymize-twitter",
+  "version": "0.0.1",
+  "description": "Anonymize Twitter JSON responses, easily.",
+  "author": "Cameron Hunter <cameronhunter@twitter.com>",
+  "dependencies": {
+    "chance": "~0.7.3",
+    "chancejs-twitter": "*",
+    "jsonymize": "*"
+  }
+}

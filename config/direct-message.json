@@ -1,0 +1,5 @@
+{
+  "aliases": { "direct-message": "*.message_data" },
+  "fields": ["direct-message"],
+  "extensions": ["../extensions/direct-message.js"]
+}
