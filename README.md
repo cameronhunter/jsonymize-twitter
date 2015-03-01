@@ -5,6 +5,7 @@ A [jsonymize](http://github.com/cameronhunter/jsonymize) plugin for anonymizing 
 ```sh
 npm install -g jsonymize
 git clone https://github.com/cameronhunter/jsonymize-twitter.git
+cd jsonymize-twitter && npm install
 ```
 
 ## Usage
